@@ -1,4 +1,4 @@
-# Computer Science Society, Ashoka University
+## Computer Science Society, Ashoka University
 
 ## Welcome, random Internet user!
 
