@@ -1,5 +1,3 @@
-## Computer Science Society, Ashoka University
-
 ## Welcome, random Internet user!
 
 You are currently staring at what is the official website of the Computer Science Society at [Ashoka University], a not-for-profit liberal arts institution located in Sonepat, Haryana, India.
