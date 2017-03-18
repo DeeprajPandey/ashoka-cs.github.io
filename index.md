@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Computer Science Society, Ashoka University
 
-You can use the [editor on GitHub](https://github.com/ashoka-cs/ashoka-cs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome, random Internet user!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You are currently staring at what is the official website of the Computer Science Society at [Ashoka University], a not-for-profit liberal arts institution located in Sonepat, Haryana, India.
 
-### Markdown
+### Who we are
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Computer Science Society at Ashoka is aimed at promoting, educating and encouraging Ashokans, irrespective of stream, to take greater interest in the field of computer science, technology, and primarily programming. The society has an organisational structure with members elected to official posts on an annual basis.
 
-```markdown
-Syntax highlighted code block
+### What we do
 
-# Header 1
-## Header 2
-### Header 3
+We organise activities on campus on a regular basis, such as hackathons, cryptic hunts, tutorials, and tournaments, among others. We also take the responsibility of officiating preliminary rounds for teams from our college that participate in events such as the ACM Inter Collegiate Programming Contest.
 
-- Bulleted
-- List
+### We share our code, too
 
-1. Numbered
-2. List
+You will find the code for projects that we build for use by the entire campus in our [GitHub](https://github.com/ashoka-cs) repository.
 
-**Bold** and _Italic_ and `Code` text
+### Happy to help
 
-[Link](url) and ![Image](src)
-```
+For more information, you can visit our [official page on Facebook](https://www.facebook.com/Computer-Science-Society-Ashoka-University-2170575066500830/). You can also message us there, and use our Messenger bot to know the schedule for the shuttle service connecting Ashoka University to Jahangir Puri Metro Station.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Enquiries to the Computer Science Society can also be forwarded to the following officials:
 
-### Jekyll Themes
+- Samridh Kudesia (samridh.kudesia@ashoka.edu.in)
+- Dhruv Agarwal (dhruv.agarwal_ug19@ashoka.edu.in)
+- Mayukh Nair (mayukh.nair_ug18@ashoka.edu.in)
+- Sanchit Bansal (sanchit.bansal_ug18@ashoka.edu.in)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashoka-cs/ashoka-cs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
