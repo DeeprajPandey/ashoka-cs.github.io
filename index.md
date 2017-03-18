@@ -20,8 +20,8 @@ For more information, you can visit our [official page on Facebook](https://www.
 
 Enquiries to the Computer Science Society can also be forwarded to the following officials:
 
-- Samridh Kudesia (samridh.kudesia@ashoka.edu.in)
-- Dhruv Agarwal (dhruv.agarwal_ug19@ashoka.edu.in)
-- Mayukh Nair (mayukh.nair_ug18@ashoka.edu.in)
-- Sanchit Bansal (sanchit.bansal_ug18@ashoka.edu.in)
+- Samridh Kudesia ([samridh.kudesia@ashoka.edu.in](mailto:samridh.kudesia@ashoka.edu.in))
+- Dhruv Agarwal ([dhruv.agarwal_ug19@ashoka.edu.in](mailto:dhruv.agarwal_ug19@ashoka.edu.in))
+- Mayukh Nair ([mayukh.nair_ug18@ashoka.edu.in](mailto:mayukh.nair_ug18@ashoka.edu.in))
+- Sanchit Bansal ([sanchit.bansal_ug18@ashoka.edu.in](mailto:sanchit.bansal_ug18@ashoka.edu.in))
 
